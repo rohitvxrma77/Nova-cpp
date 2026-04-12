@@ -55,7 +55,7 @@ nova-cpp/
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/nova-cpp.git
+git clone https://github.com/rohitvxrma77/Nova-cpp
 cd nova-cpp
 
 2. Build with CMake
