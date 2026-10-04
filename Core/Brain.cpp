@@ -28,3 +28,4 @@ std::string NovaBrain::handleInput(const std::string& text) {
 
     return "🤖 Processing: " + text;
 }
+
